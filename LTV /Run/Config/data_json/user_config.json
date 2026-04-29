@@ -1,0 +1,6 @@
+{
+  "grouping_mode": "entry_based",
+  "brand_mode": "hierarchical",
+  "conversion_mode": "incremental",
+  "granularity": "quarterly"
+}
