@@ -1,0 +1,19 @@
+{
+    "code": "CR",
+    "name": "Costa Rica",
+    "currency": "CRC",
+    "default_fx_rate": 550.0,
+    "cohort_start_year": 2022,
+    "cohort_end_year": 2026,
+    "input_files": {
+        "sois": "SOIS.xlsx",
+        "supuestos": "SUPUESTOS.xlsx",
+        "catalogo": "catalogLTV.xlsx",
+        "cac": "CAC.xlsx",
+        "fx": "TIPO_DE_CAMBIO.xlsx"
+    },
+    "output": {
+        "folder_prefix": "Resultados_LTV",
+        "report_prefix": "Analisis_LTV_Pacifiko"
+    }
+}
