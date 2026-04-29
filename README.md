@@ -173,7 +173,7 @@ python main.py
 - [ ] Dashboard web interactivo (Streamlit)
 - [ ] Exportación automática a Google Sheets / BigQuery
 - [ ] Alertas automáticas de anomalías en métricas clave
-- [ ] Soporte para más países (México, Colombia, Perú)
+- [ ] Soporte para más países (El Salvador, Honduras, Nicaragua)
 
 ## Autoría
 
